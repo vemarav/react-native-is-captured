@@ -9,7 +9,7 @@ Supports only IOS, Android work in progress...
 
 1 | 2
 --|--
-![no](/screens/no.png) | ![yes](/screens/yes.png)
+![no](https://github.com/vemarav/react-native-is-captured/raw/main/screens/no.PNG) | ![yes](https://github.com/vemarav/react-native-is-captured/raw/main/screens/yes.PNG)
 
 ## Installation
 
