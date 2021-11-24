@@ -1,13 +1,15 @@
 # react-native-is-captured
 
-A Boolean value that indicates whether the system is actively cloning the screen to another destination.
+A boolean value that indicates whether the system is actively cloning the screen to another destination.
 
 ## Caution ⚠️
 Supports only IOS, Android work in progress...
 
 ## Demo
 
-[video](/screens/iscapturedexample.mp4)
+1 | 2
+--|--
+![no](/screens/no.png) | ![yes](/screens/yes.png)
 
 ## Installation
 
