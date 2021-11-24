@@ -1,6 +1,6 @@
 {
   "name": "react-native-is-captured",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A Boolean value that indicates whether the system is actively cloning the screen to another destination.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
