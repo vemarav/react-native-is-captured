@@ -34,7 +34,11 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "react-native-is-screen-recording",
+    "is-screen-recording",
+    "react-native-is-screen-captured",
+    "is-screen-captured"
   ],
   "repository": "https://github.com/vemarav/react-native-is-captured",
   "author": "vemarav <vemarav@outlook.in> (https://github.com/vemarav)",
