@@ -2,6 +2,13 @@
 
 A Boolean value that indicates whether the system is actively cloning the screen to another destination.
 
+## Caution ⚠️
+Supports only IOS, Android work in progress...
+
+## Demo
+
+[video](/screens/iscapturedexample.mp4)
+
 ## Installation
 
 ```sh
@@ -11,11 +18,13 @@ npm install react-native-is-captured
 ## Usage
 
 ```js
-import { multiply } from "react-native-is-captured";
+import IsCaptured, { useIsCaptured } from "react-native-is-captured";
 
 // ...
 
-const result = await multiply(3, 7);
+const isCaptured = useIsCaptured();
+
+console.log(await IsCaptured.getIsCaptured());
 ```
 
 ## Contributing
@@ -25,3 +34,18 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 ## License
 
 MIT
+
+## Author
+
+- [Aravind Vemula](https://github.com/vemarav)
+
+## LIKED IT
+
+Please use following button to star the repo, so it can reach others too
+
+[![](https://img.shields.io/github/stars/vemarav/react-native-is-captured.svg?label=Stars&style=social)](https://github.com/vemarav/react-native-is-captured)
+
+## SOCIAL
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/vemarav.svg?style=social&label=Follow)](https://twitter.com/vemarav)
+
