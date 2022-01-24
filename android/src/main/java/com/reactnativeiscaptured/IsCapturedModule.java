@@ -23,8 +23,8 @@ public class IsCapturedModule extends ReactContextBaseJavaModule {
     }
 
     @ReactMethod
-    public boolean getIsCaptured(Promise promise) {
-        promise.resolve(false)
+    public void getIsCaptured(Promise promise) {
+        promise.resolve(false);
     }
 
     @ReactMethod
